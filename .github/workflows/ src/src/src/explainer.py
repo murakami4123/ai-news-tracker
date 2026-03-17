@@ -1,5 +1,0 @@
-name: AI News Daily Check
-on:
-  schedule:
-    - cron: '0 22 * * *'
-...
